@@ -1,5 +1,5 @@
 ------------------
--- Disable recipes
+-- Disable recipes (intended as backup until I make a fix, in case I missed a technology that has one of these recipes as an effect)
 
 -- Base "Long-handed inserter"
 if data.raw["recipe"]["long-handed-inserter"] ~= nil then

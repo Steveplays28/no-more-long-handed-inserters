@@ -1,0 +1,14 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 2023.04.08
+  Bugfixes:
+    - Fixed crash on startup due to missing nil checks
+  Info:
+    - Added changelog
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2023.04.07
+  Info:
+    - Initial release
+  License:
+    - GPLv3
