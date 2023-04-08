@@ -11,7 +11,7 @@ Meant for use with [Bob's Adjustable Inserters](https://mods.factorio.com/mod/bo
 
 ## Download
 
-<https://mods.factorio.com/mods/no-more-long-handed-inserters>
+<https://mods.factorio.com/mod/no-more-long-handed-inserters>
 
 ### Dependencies
 
